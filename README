@@ -1,0 +1,12 @@
+This is a simple demo project, to test the Maven NAR plugin.
+
+The plugin is located here:
+https://github.com/duns/maven-nar-plugin
+
+The goal is to compile Objective-C code through the well-defined Maven build process....
+
+= = = GETTING STARTED = = = 
+a) you may need to compile the NAR plugin (and its dependencies)
+b) to run this project, just issue 'mvn clean install'
+
+NOTE: THIS PROJECT compiles a library... not an executable...
